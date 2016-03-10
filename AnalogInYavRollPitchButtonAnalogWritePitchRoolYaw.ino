@@ -1,4 +1,4 @@
-
+//мастер
 const int analogInYawPin = A0;  // резистор джоя по Yaw
 const int analogInRollPin = A2; // резистор джоя по Roll
 const int analogInPitchPin = A4; // пин для резистора по Pitch
