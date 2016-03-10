@@ -1,4 +1,4 @@
-
+//ветка 2
 const int analogInYawPin = A0;  
 const int analogInRollPin = A2; 
 const int analogInPitchPin = A4; 
